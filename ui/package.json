@@ -103,7 +103,7 @@
     "monaco-editor-webpack-plugin": "^7.0.0",
     "postcss": "^8.2.13",
     "prettier": "1.19",
-    "raw-loader": "^0.5.1",
+    "raw-loader": "^4.0.2",
     "react-test-renderer": "16.8.3",
     "sass": "^1.49.9",
     "sass-loader": "^12.6.0",
