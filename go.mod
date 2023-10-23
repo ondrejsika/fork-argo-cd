@@ -80,7 +80,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.16.0
 	golang.org/x/crypto v0.14.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
-	golang.org/x/oauth2 v0.11.0
+	golang.org/x/oauth2 v0.13.0
 	golang.org/x/sync v0.3.0
 	golang.org/x/term v0.13.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20230711160842-782d3b101e98
